@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說長者法志妻經
+#+DATE: 2015-08-30 20:12:43.630633
+#+PROPERTY: JUAN 0
