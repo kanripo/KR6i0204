@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:43.393369
+#+DATE: 2015-08-30 20:12:44.865300
 #+TITLE: 佛說長者法志妻經
 #+PROPERTY: CBETA_ID T14n0572
 #+PROPERTY: ID KR6i0204
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 572
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0204_T_000-0944b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0204_T_001-0944b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.572¶
-
- 佛說長者法志妻經¶
+No. 572¶
+佛說長者法志妻經¶
 ¶
 失譯人名今附涼錄¶
 
@@ -111,7 +110,7 @@ No.572¶
 
 時天帝釋來在佛¶
 後，謂女言曰：「佛道難得，不如求轉女為男¶
-日月天帝轉輪聖王。」
+日月天帝轉論聖王。」
 
 於是女以偈頌曰：¶
 
@@ -119,7 +118,7 @@ No.572¶
 「　「天帝日月王，
 　轉輪四域主，¶
 　威勢無幾間，
-　不可久恃怙。¶
+　不可久恃怗。¶
 　在豪如朝露，
 　夢中有所覩，¶
 　覺以忽滅盡，
